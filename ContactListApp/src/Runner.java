@@ -2,6 +2,7 @@ import java.util.ArrayList;
 public class Runner
 {
     public static void main(String[] args) {
+    
         DoublyLinkedList contact_list = new DoublyLinkedList();
         System.out.println("Enter 1 to add a contact");
         ArrayList<String> money = new ArrayList<>();
